@@ -1,0 +1,3 @@
+rootProject.name = 'EmiratesAuction'
+
+include ':app'
